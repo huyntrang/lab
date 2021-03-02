@@ -1,0 +1,16 @@
+table{
+    border: 1px solid green;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid green;
+}
+body{
+    text-align: center;
+}
+tr:first-child{
+    background-color: rgb(52, 189, 52);
+}
+tr:nth-child(2){
+    background-color: rgb(52, 189, 52);
+}

@@ -1,0 +1,28 @@
+table{
+    border: 1px solid rgb(21, 77, 230);
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid rgb(11, 50, 158);
+}
+body{
+    text-align: center;
+}
+tr:first-child{
+    background-color: rgb(21, 77, 230);
+}
+tr:nth-child(2){
+    background-color:rgb(21, 77, 230);
+}
+tr:nth-child(3){
+    background-color:lightgray;
+}tr:nth-child(5){
+    background-color:lightgray;
+}tr:nth-child(7){
+    background-color:lightgray;
+}tr:nth-child(9){
+    background-color:lightgray
+}
+tr:nth-child(11){
+    background-color:lightgray
+}
